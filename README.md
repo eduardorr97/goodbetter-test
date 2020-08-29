@@ -12,7 +12,7 @@ meteor
 
 ## Pivot View
 
-Insert numbers space separates and see the index of pivot in the next cell
+Insert numbers space-separated and see the index of pivot in the next cell
 
 ## Add User
 

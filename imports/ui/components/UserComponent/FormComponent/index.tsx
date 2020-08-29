@@ -160,7 +160,7 @@ const FromComponent = ({ model, setParentState }: Props) => {
                         startIcon={<SaveIcon />}
                         disabled={state.isSubmitting}
                       >
-                        Add
+                        Save
                       </SubmitField>
                     </Grid>
                   </>

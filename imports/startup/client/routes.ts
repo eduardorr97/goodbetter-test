@@ -5,6 +5,6 @@ import EditIcon from '@material-ui/icons/Edit';
 
 export const routes: RouteType[] = [
   { title: 'Pivot index', href: '/pivot-index', icon: DomainIcon },
-  { title: 'Add User', href: '/addUser', icon: PeopleIcon },
+  { title: 'User', href: '/addUser', icon: PeopleIcon },
   { title: 'Edit User', href: '/editUser', icon: EditIcon },
 ];
