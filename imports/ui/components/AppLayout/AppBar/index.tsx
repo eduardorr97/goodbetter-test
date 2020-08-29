@@ -36,10 +36,10 @@ const AppBarComponent = () => {
         <Toolbar>
           <div className={classes.imgContainer}>
             <img
-              src="/img/logo_app_bar.png"
+              src="/favicon.png"
               alt="Good Better"
               className={classes.img}
-              onClick={() => history.push('/users')}
+              onClick={() => history.push('/')}
             />
           </div>
         </Toolbar>

@@ -1,3 +1,6 @@
+import '../../api/users/server/publications';
+import '../../api/users/methods';
+
 //here goes apis
 Meteor.methods({
     findPivotIndex(numbers) {
