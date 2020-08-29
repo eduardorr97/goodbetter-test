@@ -7,6 +7,7 @@ https://www.meteor.com/install
 - windwos: choco install meteor
 
 ```bash
+meteor npm install
 meteor
 ```
 
